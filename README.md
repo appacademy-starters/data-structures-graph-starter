@@ -1,3 +1,8 @@
+# STOP! THIS REPO IS DEPRECATED
+
+Please see: https://github.com/appacademy-starters/assessment-data-structures-graph-js-starter
+
+
 # Graph Project
 
 This project contains a skeleton for you to implement some graph functionality.
