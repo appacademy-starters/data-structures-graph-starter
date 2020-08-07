@@ -64,7 +64,7 @@ describe('Calculating friends of', () => {
       list[friendless] = [];
 
       for (let distance = 1; distance <= names.length; distance += 1) {
-        const result = friendsOf(cloneList(list), friendless, d);
+        const result = friendsOf(cloneList(list), friendless, distance);
 
         expect(result).to.eql([]);
       }
